@@ -10,12 +10,15 @@ from bs4 import BeautifulSoup
 
 driver = webdriver.Chrome('/Users/macbookpro/Downloads/chromedriver')
 driver.get("https://ledokat.ru/rink")
-# count = 0
+count = 0
 while True:
     try:
         showmore = WebDriverWait(driver, 30).until(
             EC.presence_of_element_located((By.CLASS_NAME, "marketplace-results-more__btn")))
         showmore.click()
+        count += 1
+        if count == 2:
+            break
         time.sleep(5)
     except TimeoutException:
         break
@@ -80,13 +83,15 @@ for arena in temp1:
     if contacts.find("span", class_="marketplace-view__metro"):
         arena_metro.append(contacts.find("span", class_="marketplace-view__metro").text.strip())
     if contacts.find("span", class_="marketplace-view__phones"):
-        arena_phone.append(contacts.find("span", class_="marketplace-view__phones").text.strip())
+        phone_contacts = contacts.find_all("span", class_="marketplace-view__phone")
+        for phone in phone_contacts:
+            arena_phone.append(phone.text.strip())
     if soup.find("span", class_="marketplace-view-map__lat"):
         latitude = soup.find("span", class_="marketplace-view-map__lat").text.strip()
     if soup.find("span", class_="marketplace-view-map__lng"):
         longitude = soup.find("span", class_="marketplace-view-map__lng").text.strip()
     if arena_address:
-        arena_city = arena_address.split(",")[0]
+        arena_city = arena_address.split(",")[0].split(".")[1]
 
     photos = soup.find_all("div", class_="carousel-item")
     if photos:
