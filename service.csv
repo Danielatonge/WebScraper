@@ -1,0 +1,507 @@
+arena_id,title,description,type,size,length,width,price_id,profile_picture
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,wifi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,сауна,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,зал хореографии,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,прокат,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,хоккей,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,свободное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f5d94152-b6e9-4a42-ba96-123ef58d99f3,магазин,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Зал ОФП,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Бросовая зона,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Зона дриблинга,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+250478bf-b961-4414-a5f4-71adec3bb00f,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+dbee64d4-4a20-4bf3-b802-55ecd38125fd,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bb9ffea2-5182-4d4f-ab40-3f7e0f5948c9,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bb9ffea2-5182-4d4f-ab40-3f7e0f5948c9,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bb9ffea2-5182-4d4f-ab40-3f7e0f5948c9,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bb9ffea2-5182-4d4f-ab40-3f7e0f5948c9,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bb9ffea2-5182-4d4f-ab40-3f7e0f5948c9,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8b31b51e-66bc-499a-b48f-7ae51750bad5,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+09ef44e2-2103-41bb-8fd6-76e5c6e64b10,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0c6144f1-115c-4d27-abd9-c4032bdc5ce6,Хоккей,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0c6144f1-115c-4d27-abd9-c4032bdc5ce6,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0c6144f1-115c-4d27-abd9-c4032bdc5ce6,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0c6144f1-115c-4d27-abd9-c4032bdc5ce6,Спортивный зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0c6144f1-115c-4d27-abd9-c4032bdc5ce6,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e5857a1c-b36b-4fb0-bb90-d6e781d24814,Хоккей,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e5857a1c-b36b-4fb0-bb90-d6e781d24814,Бассейн,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e5857a1c-b36b-4fb0-bb90-d6e781d24814,Ледовой дворец,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e5857a1c-b36b-4fb0-bb90-d6e781d24814,Спортивный зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e5857a1c-b36b-4fb0-bb90-d6e781d24814,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Бросковая зона,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Зона ОФП,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Сухой лед,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Тренажерный зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Гимнастический зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+cb60dd3c-e257-4664-828e-91f706028015,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,wifi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,сауна,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,зал хореографии,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,прокат,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,хоккей,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,свободное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d942f6b7-0baf-4b77-b3a2-46bdc6706616,магазин,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Гимнастический зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1a0cd9f1-8c6d-4b38-afce-8376f230a7c3,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Атлетический зал,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,add,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5418a951-ed38-41a3-8171-fcb662916fc9,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+fb8b9f2d-86b1-4efa-9f39-395ac3c7f73b,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Бросовая зона,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Зона ОФП,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+af07cbe2-049e-4502-9f4e-b37063e4fb76,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+7c529b9f-8e91-4919-acd6-45ce49f1cdd4,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+7c529b9f-8e91-4919-acd6-45ce49f1cdd4,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+7c529b9f-8e91-4919-acd6-45ce49f1cdd4,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+7c529b9f-8e91-4919-acd6-45ce49f1cdd4,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+7c529b9f-8e91-4919-acd6-45ce49f1cdd4,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Запись в Академию,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Сборы,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Пробная тренировка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2309b3d8-02f3-4307-8760-d49abd5a628d,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3468be1d-9546-4b64-8795-10c20cd73344,Сборы,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3468be1d-9546-4b64-8795-10c20cd73344,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3468be1d-9546-4b64-8795-10c20cd73344,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3468be1d-9546-4b64-8795-10c20cd73344,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3468be1d-9546-4b64-8795-10c20cd73344,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+1ce32cb3-b5a0-49b8-a91c-de5a12939a1b,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Зал/ОФП,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a6eb5fcd-fdbe-49b9-8dab-8fef0d98ae70,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c55b3770-49e0-45a9-b6a9-e6342a6446fb,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c55b3770-49e0-45a9-b6a9-e6342a6446fb,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c55b3770-49e0-45a9-b6a9-e6342a6446fb,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c55b3770-49e0-45a9-b6a9-e6342a6446fb,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c55b3770-49e0-45a9-b6a9-e6342a6446fb,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+bcd1f040-079a-47c1-9c4f-86cb5bf9b49c,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a7ffd0f6-c129-41bd-9b6e-6ef56ba2c551,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a7ffd0f6-c129-41bd-9b6e-6ef56ba2c551,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a7ffd0f6-c129-41bd-9b6e-6ef56ba2c551,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+45633d5e-be9b-4bf0-b104-9f36189664e9,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+90145445-1262-4591-bfe2-943e43753304,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5ab5a9c8-0f27-4c56-8287-2d7eed830e8a,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d8bc5533-014b-4de7-96ad-b5acef4ad6e8,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+c5eb3cb7-1fe3-4252-b51c-e40c3662c365,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0799b1d1-a07f-46d9-95a5-a5a226f444de,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+79cba51b-c91a-4daa-b7ff-b41b9dacb0f4,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+906cb117-1981-4e24-ad4f-2801310966af,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a5baf0be-a06a-43d4-b9e0-9a8c1e038aca,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3424d9cc-9c62-4576-bca9-2f99457773a8,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+23056939-181a-42db-8e6a-78fefcd8b0d0,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+17178b41-b282-42c8-87cc-63c4042766be,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+8a9a4a0c-1255-4823-89fc-4043a979b691,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+9e5bd502-fc03-4264-a421-58838a3aae9d,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+355fe8a9-8ac9-490c-9a87-76c0703215ea,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+a9ecdcaf-9fea-4d4b-81eb-1fc93ae5dcfd,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+084bd363-f18c-4306-8550-0f917ffc58d3,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+21175347-9630-45d8-80f3-f517f9b3b7e6,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f01c7166-a4f7-4abb-86b0-f28626e9cb5b,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05eced6f-28c0-41f1-9cf4-ee0700848f3c,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+e40aacda-1451-4caa-b5be-a37dc2e12d4d,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+58172cf3-faf6-419c-9eaf-6d5029cdcd98,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+30880919-9399-4579-a088-2ae99dfad09c,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+f91f6776-43fd-4841-8ce7-6d1bebb1504c,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+76f11257-5994-4b71-8827-9739a6428494,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+5656c78e-dfd5-4b52-8918-6f3a8566e9bf,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+05439e80-a866-422b-ac5b-47a560b3bd8e,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+49dc60ef-7cea-4e4d-b6fb-be343377fa99,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+3c00527c-26aa-488e-bb0f-23d875573f62,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+aaa8c2b8-11eb-4939-a15a-257fe18a6e37,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d7914a76-25c5-461b-9ab4-bd5fce1eefa5,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d7914a76-25c5-461b-9ab4-bd5fce1eefa5,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d7914a76-25c5-461b-9ab4-bd5fce1eefa5,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d7914a76-25c5-461b-9ab4-bd5fce1eefa5,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d7914a76-25c5-461b-9ab4-bd5fce1eefa5,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+0b27808e-7b3f-4cf0-91db-62955dafad8e,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Бесплатный Wi-Fi,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+245918e4-8c8e-4f6f-afec-aa5d8a33c671,Оплата картой,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Ночное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d3ade510-7583-41f0-be6c-cd5175ab1718,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+6db202eb-2320-4193-8ebe-00280b9409be,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Парковка,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Заточка коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Инвентарь,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+d5a89880-8162-413d-8ccb-e24b425ee135,Медкабинет,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Массовое катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Хоккейное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Фигурное катание,,RENT,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Раздевалки,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Кафе,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Душ,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png
+2421dcee-a750-48cc-b49a-0d4fef838890,Аренда коньков,,OTHER,,,,,https://cdn.discordapp.com/attachments/799296035029123072/887109950353051658/blog_avatar.png

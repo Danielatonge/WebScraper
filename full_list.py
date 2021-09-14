@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 
 driver = webdriver.Chrome('/Users/macbookpro/Downloads/chromedriver')
 driver.get("https://ledokat.ru/rink")
-# count = 0
 while True:
     try:
         showmore = WebDriverWait(driver, 30).until(
